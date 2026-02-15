@@ -26,3 +26,4 @@ Ana sayfa:
 ## Deployment
 
 Bu proje Netlify üzerinden deploy edilmiştir.
+Link: https://ilayflix.netlify.app
